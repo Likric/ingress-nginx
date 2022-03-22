@@ -1,3 +1,0 @@
-FROM k8s.gcr.io/ingress-nginx/kube-webhook-certgen
-FROM k8s.gcr.io/ingress-nginx/controller
-FROM k8s.gcr.io/defaultbackend-amd64
